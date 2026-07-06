@@ -94,4 +94,6 @@ For questions about the PANDA project, please reach out to the active developers
 
 ## License
 
-*TBD*
+MIT License
+
+Copyright (c) [2026] [William GENETELLI]
